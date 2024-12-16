@@ -1,9 +1,9 @@
 {
-    "resource_name": "lyre_template",
+    "resource_name": "lyre_illegalmissions-gofast",
     "current_version": "1.0.0",
     "changelog": {
         "1.0.0": {
-            "date": "2024-11-19",
+            "date": "2024-12-16",
             "changes": [
                 "Official project release"
             ]
