@@ -1,0 +1,16 @@
+{
+    "resource_name": "lyre_illegalmissions-cartheft",
+    "current_version": "1.0.0",
+    "changelog": {
+        "1.0.0": {
+            "date": "2024-12-21",
+            "changes": [
+                "Official project release"
+            ]
+        }
+    },
+    "links": {
+        "download": "https://keymaster.fivem.net/asset-grants",
+        "support": "https://docs.lyre.lets-pop.fr/"
+    }
+}
