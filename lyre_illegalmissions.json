@@ -1,11 +1,11 @@
 {
     "resource_name": "lyre_illegalmissions",
-    "current_version": "1.0.0",
+    "current_version": "1.0.1",
     "changelog": {
-        "1.0.0": {
-            "date": "2024-11-19",
+        "1.0.1": {
+            "date": "2024-12-27",
             "changes": [
-                "Official project release"
+                "QBCore Compatibility Fix"
             ]
         }
     },

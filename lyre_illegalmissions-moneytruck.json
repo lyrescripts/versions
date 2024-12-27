@@ -7,12 +7,6 @@
             "changes": [
                 "QBCore Compatibility Fix"
             ]
-        },
-        "1.0.0": {
-            "date": "2024-12-23",
-            "changes": [
-                "Official project release"
-            ]
         }
     },
     "links": {
