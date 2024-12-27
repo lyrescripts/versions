@@ -1,7 +1,13 @@
 {
     "resource_name": "lyre_illegalmissions-atm",
-    "current_version": "1.0.0",
+    "current_version": "1.0.1",
     "changelog": {
+        "1.0.1": {
+            "date": "2024-12-27",
+            "changes": [
+                "QBCore Compatibility Fix"
+            ]
+        },
         "1.0.0": {
             "date": "2024-12-25",
             "changes": [
