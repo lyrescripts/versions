@@ -1,11 +1,11 @@
 {
     "resource_name": "lyre_illegalmissions",
-    "current_version": "1.0.2",
+    "current_version": "1.0.3",
     "changelog": {
-        "1.0.2": {
-            "date": "2025-01-02",
+        "1.0.3": {
+            "date": "2025-01-03",
             "changes": [
-                "Update the script UI"
+                "Fix name of new players"
             ]
         }
     },
