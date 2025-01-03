@@ -1,11 +1,11 @@
 {
     "resource_name": "lyre_illegalmissions-moneytruck",
-    "current_version": "1.0.1",
+    "current_version": "1.0.2",
     "changelog": {
-        "1.0.1": {
-            "date": "2024-12-27",
+        "1.0.2": {
+            "date": "2025-01-03",
             "changes": [
-                "QBCore Compatibility Fix"
+                "Fix issue on disconnect"
             ]
         }
     },

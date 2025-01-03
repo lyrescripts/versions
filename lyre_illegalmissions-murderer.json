@@ -1,11 +1,11 @@
 {
     "resource_name": "lyre_illegalmissions-murderer",
-    "current_version": "1.0.1",
+    "current_version": "1.0.2",
     "changelog": {
-        "1.0.1": {
-            "date": "2024-12-28",
+        "1.0.2": {
+            "date": "2025-01-03",
             "changes": [
-                "Hot Fix : Syncing ped problem"
+                "Fix issue on disconnect"
             ]
         }
     },
