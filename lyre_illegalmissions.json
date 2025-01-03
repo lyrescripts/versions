@@ -1,11 +1,11 @@
 {
     "resource_name": "lyre_illegalmissions",
-    "current_version": "1.0.4",
+    "current_version": "1.0.5",
     "changelog": {
-        "1.0.4": {
+        "1.0.5": {
             "date": "2025-01-03",
             "changes": [
-                "Fix issue on disconnect"
+                "Fix issue on first join"
             ]
         }
     },
