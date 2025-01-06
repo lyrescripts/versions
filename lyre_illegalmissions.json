@@ -1,11 +1,11 @@
 {
     "resource_name": "lyre_illegalmissions",
-    "current_version": "1.0.6",
+    "current_version": "1.0.7",
     "changelog": {
-        "1.0.6": {
+        "1.0.7": {
             "date": "2025-01-06",
             "changes": [
-                "Add new vehicles keys compatibility"
+                "💥 Important hot fix ! 💥"
             ]
         }
     },
