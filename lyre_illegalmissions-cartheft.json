@@ -1,11 +1,11 @@
 {
     "resource_name": "lyre_illegalmissions-cartheft",
-    "current_version": "1.0.4",
+    "current_version": "1.0.5",
     "changelog": {
-        "1.0.4": {
-            "date": "2025-01-06",
+        "1.0.5": {
+            "date": "2025-01-19",
             "changes": [
-                "Hot fix : Fix network id error"
+                "Fix : Increase distance to deliver the vehicle"
             ]
         }
     },
