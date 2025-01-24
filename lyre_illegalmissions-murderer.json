@@ -1,11 +1,11 @@
 {
     "resource_name": "lyre_illegalmissions-murderer",
-    "current_version": "1.0.2",
+    "current_version": "1.0.3",
     "changelog": {
-        "1.0.2": {
-            "date": "2025-01-03",
+        "1.0.3": {
+            "date": "2025-01-24",
             "changes": [
-                "Fix issue on disconnect"
+                "💥 Important fix ! 💥"
             ]
         }
     },
