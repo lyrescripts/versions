@@ -1,11 +1,11 @@
 {
     "resource_name": "lyre_illegalmissions",
-    "current_version": "1.0.8",
+    "current_version": "1.0.9",
     "changelog": {
-        "1.0.8": {
-            "date": "2025-01-24",
+        "1.0.9": {
+            "date": "2025-02-11",
             "changes": [
-                "💥 Important fix ! 💥"
+                "Small fix on ui"
             ]
         }
     },
