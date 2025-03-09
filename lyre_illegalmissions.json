@@ -1,11 +1,11 @@
 {
     "resource_name": "lyre_illegalmissions",
-    "current_version": "1.0.10",
+    "current_version": "1.0.11",
     "changelog": {
-        "1.0.10": {
-            "date": "2025-02-13",
+        "1.0.11": {
+            "date": "2025-03-09",
             "changes": [
-                "Fix on percentage calculation"
+                "Add onMissionEnd bridge function"
             ]
         }
     },
