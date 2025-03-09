@@ -1,11 +1,11 @@
 {
     "resource_name": "lyre_illegalmissions-gofast",
-    "current_version": "1.0.4",
+    "current_version": "1.0.5",
     "changelog": {
-        "1.0.4": {
-            "date": "2025-01-06",
+        "1.0.5": {
+            "date": "2025-03-09",
             "changes": [
-                "Add new vehicles keys compatibility"
+                "Fix an issue with the targetting systems"
             ]
         }
     },
