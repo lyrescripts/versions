@@ -1,7 +1,13 @@
 {
     "resource_name": "lyre_carwash",
-    "current_version": "2.0.0",
+    "current_version": "2.0.1",
     "changelog": {
+        "2.0.1": {
+            "date": "2025-04-12",
+            "changes": [
+                "Small fix"
+            ]
+        },
         "2.0.0": {
             "date": "2025-03-08",
             "changes": [
