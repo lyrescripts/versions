@@ -1,7 +1,15 @@
 {
     "resource_name": "lyre_carwash",
-    "current_version": "2.0.1",
+    "current_version": "2.0.2",
     "changelog": {
+        "2.0.2": {
+            "date": "2025-04-29",
+            "changes": [
+                "Prevent vehicle spawning when spawn point is not free",
+                "Small fix on target usage",
+                "Change the default sql import file to force use utf8mb4"
+            ]
+        },
         "2.0.1": {
             "date": "2025-04-12",
             "changes": [
