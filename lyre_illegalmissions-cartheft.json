@@ -1,11 +1,11 @@
 {
     "resource_name": "lyre_illegalmissions-cartheft",
-    "current_version": "1.0.5",
+    "current_version": "1.0.6",
     "changelog": {
-        "1.0.5": {
-            "date": "2025-01-19",
+        "1.0.6": {
+            "date": "2025-09-08",
             "changes": [
-                "Fix : Increase distance to deliver the vehicle"
+                "Add teamMembers argument on alertJob function"
             ]
         }
     },

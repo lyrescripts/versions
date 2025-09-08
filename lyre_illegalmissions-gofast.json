@@ -1,11 +1,11 @@
 {
     "resource_name": "lyre_illegalmissions-gofast",
-    "current_version": "1.0.5",
+    "current_version": "1.0.6",
     "changelog": {
-        "1.0.5": {
-            "date": "2025-03-09",
+        "1.0.6": {
+            "date": "2025-09-08",
             "changes": [
-                "Fix an issue with the targetting systems"
+                "Add teamMembers argument on alertJob function"
             ]
         }
     },

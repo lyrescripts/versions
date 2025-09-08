@@ -1,11 +1,11 @@
 {
     "resource_name": "lyre_illegalmissions-atm",
-    "current_version": "1.0.4",
+    "current_version": "1.0.5",
     "changelog": {
-        "1.0.4": {
-            "date": "2025-03-09",
+        "1.0.5": {
+            "date": "2025-09-08",
             "changes": [
-                "Fix heading syncing issue"
+                "Add teamMembers argument on alertJob function"
             ]
         }
     },
