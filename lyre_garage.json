@@ -1,7 +1,14 @@
 {
     "resource_name": "lyre_garage",
-    "current_version": "1.0.0",
+    "current_version": "1.0.1",
     "changelog": {
+        "1.0.1": {
+            "date": "2025-11-12",
+            "changes": [
+                "Add outline configuration",
+                "Add spawn marker configuration"
+            ]
+        },
         "1.0.0": {
             "date": "2025-04-11",
             "changes": [
