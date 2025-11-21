@@ -1,7 +1,13 @@
 {
     "resource_name": "lyre_illegalmissions-moneytruck",
-    "current_version": "1.0.4",
+    "current_version": "1.0.6",
     "changelog": {
+        "1.0.6": {
+            "date": "2025-11-21",
+            "changes": [
+                "Add task preview"
+            ]
+        },
         "1.0.4": {
             "date": "2025-09-08",
             "changes": [
