@@ -1,7 +1,14 @@
 {
     "resource_name": "lyre_illegalmissions",
-    "current_version": "1.0.13",
+    "current_version": "1.0.14",
     "changelog": {
+        "1.0.14": {
+            "date": "2025-11-21",
+            "changes": [
+                "Add wantedlevel option",
+                "Add task preview"
+            ]
+        },
         "1.0.13": {
             "date": "2025-09-08",
             "changes": [
