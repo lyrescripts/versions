@@ -1,7 +1,14 @@
 {
     "resource_name": "lyre_garage",
-    "current_version": "1.0.1",
+    "current_version": "1.0.2",
     "changelog": {
+        "1.0.2": {
+            "date": "2025-11-22",
+            "changes": [
+                "Add shared vehicles panel",
+                "Enhance targetting system"
+            ]
+        },
         "1.0.1": {
             "date": "2025-11-12",
             "changes": [
