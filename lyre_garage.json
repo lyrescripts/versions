@@ -1,7 +1,13 @@
 {
     "resource_name": "lyre_garage",
-    "current_version": "1.0.2",
+    "current_version": "1.0.3",
     "changelog": {
+        "1.0.3": {
+            "date": "2025-11-24",
+            "changes": [
+                "Enhance vehicle transfer"
+            ]
+        },
         "1.0.2": {
             "date": "2025-11-22",
             "changes": [
