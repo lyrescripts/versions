@@ -1,7 +1,13 @@
 {
     "resource_name": "lyre_garage",
-    "current_version": "1.0.4",
+    "current_version": "1.0.5",
     "changelog": {
+        "1.0.5": {
+            "date": "2025-11-25",
+            "changes": [
+                "Add transfer for job/gang garages"
+            ]
+        },
         "1.0.4": {
             "date": "2025-11-25",
             "changes": [
