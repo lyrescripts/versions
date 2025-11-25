@@ -1,7 +1,13 @@
 {
     "resource_name": "lyre_garage",
-    "current_version": "1.0.3",
+    "current_version": "1.0.4",
     "changelog": {
+        "1.0.4": {
+            "date": "2025-11-25",
+            "changes": [
+                "Allow park last used vehicle"
+            ]
+        },
         "1.0.3": {
             "date": "2025-11-24",
             "changes": [
