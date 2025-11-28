@@ -1,11 +1,11 @@
 {
     "resource_name": "lyre_garage",
-    "current_version": "1.0.5",
+    "current_version": "1.0.6",
     "changelog": {
-        "1.0.5": {
-            "date": "2025-11-25",
+        "1.0.6": {
+            "date": "2025-11-26",
             "changes": [
-                "Add transfer for job/gang garages"
+                "Fix /impound command authorized job"
             ]
         },
         "1.0.4": {
