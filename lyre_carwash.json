@@ -1,7 +1,14 @@
 {
     "resource_name": "lyre_carwash",
-    "current_version": "2.0.4",
+    "current_version": "2.0.5",
     "changelog": {
+        "2.0.5": {
+            "date": "2025-11-28",
+            "changes": [
+                "Fix busy check",
+                "Add new key systems support"
+            ]
+        },
         "2.0.4": {
             "date": "2025-11-17",
             "changes": [
