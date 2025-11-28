@@ -1,7 +1,13 @@
 {
     "resource_name": "lyre_garage",
-    "current_version": "1.0.6",
+    "current_version": "1.1.0",
     "changelog": {
+        "1.1.0": {
+            "date": "2025-11-28",
+            "changes": [
+                "Heavy data query improvements"
+            ]
+        },
         "1.0.6": {
             "date": "2025-11-26",
             "changes": [
