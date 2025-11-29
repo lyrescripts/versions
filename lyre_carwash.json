@@ -1,7 +1,14 @@
 {
     "resource_name": "lyre_carwash",
-    "current_version": "2.0.5",
+    "current_version": "2.0.6",
     "changelog": {
+        "2.0.6": {
+            "date": "2025-11-29",
+            "changes": [
+                "Add min/max offer prices",
+                "Add renewed vehicle keys support"
+            ]
+        },
         "2.0.5": {
             "date": "2025-11-28",
             "changes": [
