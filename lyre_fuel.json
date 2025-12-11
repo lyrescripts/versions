@@ -1,7 +1,13 @@
 {
     "resource_name": "lyre_fuel",
-    "current_version": "2.0.0",
+    "current_version": "2.0.1",
     "changelog": {
+        "2.0.1": {
+            "date": "2025-12-11",
+            "changes": [
+                "Fix on refill spawn points"
+            ]
+        },
         "2.0.0": {
             "date": "2025-12-03",
             "changes": [
