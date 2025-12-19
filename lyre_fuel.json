@@ -1,7 +1,14 @@
 {
     "resource_name": "lyre_fuel",
-    "current_version": "2.0.3",
+    "current_version": "2.0.4",
     "changelog": {
+        "2.0.4": {
+            "date": "2025-12-19",
+            "changes": [
+                "Add society payment method",
+                "Performance improvements"
+            ]
+        },
         "2.0.3": {
             "date": "2025-12-11",
             "changes": [
