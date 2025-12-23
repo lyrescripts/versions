@@ -1,7 +1,14 @@
 {
     "resource_name": "lyre_illegalmissions",
-    "current_version": "1.0.14",
+    "current_version": "1.0.15",
     "changelog": {
+        "1.0.15": {
+            "date": "2025-12-23",
+            "changes": [
+                "Add ps-dispatch compatibility",
+                "Add qbcore duty verification"
+            ]
+        },
         "1.0.14": {
             "date": "2025-11-21",
             "changes": [
