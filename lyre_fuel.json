@@ -1,7 +1,16 @@
 {
     "resource_name": "lyre_fuel",
-    "current_version": "2.0.5",
+    "current_version": "2.1.0",
     "changelog": {
+        "2.1.0": {
+            "date": "2026-01-05",
+            "changes": [
+                "!! IMPORTANT !! SQL MIGRATION REQUIRED",
+                "Add a way to set different pump types in one station",
+                "Fix an issue with long vehicle model names",
+                "Fix and issue when buying refuel items"
+            ]
+        },
         "2.0.5": {
             "date": "2025-12-19",
             "changes": [
