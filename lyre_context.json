@@ -1,7 +1,13 @@
 {
     "resource_name": "lyre_context",
-    "current_version": "1.0.5",
+    "current_version": "1.0.6",
     "changelog": {
+        "1.0.6": {
+            "date": "2026-01-05",
+            "changes": [
+                "Fix removeLocalEntity for ox_target bridge"
+            ]
+        },
         "1.0.5": {
             "date": "2025-12-28",
             "changes": [
