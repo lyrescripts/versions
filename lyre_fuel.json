@@ -1,7 +1,14 @@
 {
     "resource_name": "lyre_fuel",
-    "current_version": "2.1.0",
+    "current_version": "2.1.1",
     "changelog": {
+        "2.1.1": {
+            "date": "2026-01-08",
+            "changes": [
+                "Fix some issues from 2.1.0",
+                "Add Config.disableStockAndManagementWhenNoStock option"
+            ]
+        },
         "2.1.0": {
             "date": "2026-01-05",
             "changes": [
