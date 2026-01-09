@@ -1,7 +1,15 @@
 {
     "resource_name": "lyre_fuel",
-    "current_version": "2.1.1",
+    "current_version": "2.1.2",
     "changelog": {
+        "2.1.2": {
+            "date": "2026-01-09",
+            "changes": [
+                "Add job whitelist for society payment method",
+                "Add vehicles whitelist for society payment method",
+                "Make owned station keep open/closed blip colour"
+            ]
+        },
         "2.1.1": {
             "date": "2026-01-08",
             "changes": [
