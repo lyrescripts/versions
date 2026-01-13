@@ -1,0 +1,16 @@
+{
+    "resource_name": "lyre_flightschool",
+    "current_version": "1.0.0",
+    "changelog": {
+        "1.0.0": {
+            "date": "2026-01-13",
+            "changes": [
+                "Official project release"
+            ]
+        }
+    },
+    "links": {
+        "download": "https://portal.cfx.re/assets/granted-assets",
+        "support": "https://docs.lyre.lets-pop.fr/"
+    }
+}
