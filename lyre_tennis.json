@@ -1,7 +1,14 @@
 {
     "resource_name": "lyre_tennis",
-    "current_version": "1.0.1",
+    "current_version": "1.0.2",
     "changelog": {
+        "1.0.2": {
+            "date": "2026-01-27",
+            "changes": [
+                "Add spectators ball sync for training and tutorial modes",
+                "Fix PvP Ball Sync for spectators"
+            ]
+        },
         "1.0.1": {
             "date": "2026-01-23",
             "changes": [
