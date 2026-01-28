@@ -1,7 +1,13 @@
 {
     "resource_name": "lyre_context",
-    "current_version": "1.0.6",
+    "current_version": "1.0.7",
     "changelog": {
+        "1.0.7": {
+            "date": "2026-01-28",
+            "changes": [
+                "Put onSelect as async function"
+            ]
+        },
         "1.0.6": {
             "date": "2026-01-05",
             "changes": [
