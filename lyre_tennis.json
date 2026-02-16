@@ -1,7 +1,13 @@
 {
     "resource_name": "lyre_tennis",
-    "current_version": "1.0.3",
+    "current_version": "1.0.4",
     "changelog": {
+        "1.0.4": {
+            "date": "2026-02-16",
+            "changes": [
+                "Add new configurations for tennis courts"
+            ]
+        },
         "1.0.3": {
             "date": "2026-01-31",
             "changes": [
