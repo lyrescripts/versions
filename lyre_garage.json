@@ -1,7 +1,13 @@
 {
     "resource_name": "lyre_garage",
-    "current_version": "1.1.5",
+    "current_version": "1.1.6",
     "changelog": {
+        "1.1.6": {
+            "date": "2026-02-16",
+            "changes": [
+                "Fix an issue with the remove of vehicle keys"
+            ]
+        },
         "1.1.5": {
             "date": "2026-01-26",
             "changes": [
