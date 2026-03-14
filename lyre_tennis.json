@@ -1,7 +1,14 @@
 {
     "resource_name": "lyre_tennis",
-    "current_version": "1.0.4",
+    "current_version": "1.0.5",
     "changelog": {
+        "1.0.5": {
+            "date": "2026-03-14",
+            "changes": [
+                "Fix NPC despawn",
+                "Fix net detection"
+            ]
+        },
         "1.0.4": {
             "date": "2026-02-16",
             "changes": [

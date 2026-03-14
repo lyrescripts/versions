@@ -1,7 +1,13 @@
 {
     "resource_name": "lyre_context",
-    "current_version": "1.0.7",
+    "current_version": "1.0.8",
     "changelog": {
+        "1.0.8": {
+            "date": "2026-03-14",
+            "changes": [
+                "Fix screen resolution"
+            ]
+        },
         "1.0.7": {
             "date": "2026-01-28",
             "changes": [
