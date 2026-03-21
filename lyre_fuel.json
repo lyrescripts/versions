@@ -1,7 +1,13 @@
 {
     "resource_name": "lyre_fuel",
-    "current_version": "2.1.5",
+    "current_version": "2.1.6",
     "changelog": {
+        "2.1.6": {
+            "date": "2026-03-21",
+            "changes": [
+                "HOTFIX society payement"
+            ]
+        },
         "2.1.5": {
             "date": "2026-03-14",
             "changes": [
