@@ -1,7 +1,13 @@
 {
     "resource_name": "lyre_illegalmissions",
-    "current_version": "1.0.15",
+    "current_version": "1.1.0",
     "changelog": {
+        "1.1.0": {
+            "date": "2026-05-09",
+            "changes": [
+                "New Lyre Scripts structure"
+            ]
+        },
         "1.0.15": {
             "date": "2025-12-23",
             "changes": [

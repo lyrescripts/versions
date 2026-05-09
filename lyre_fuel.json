@@ -1,7 +1,13 @@
 {
     "resource_name": "lyre_fuel",
-    "current_version": "2.1.6",
+    "current_version": "2.2.0",
     "changelog": {
+        "2.2.0": {
+            "date": "2026-05-09",
+            "changes": [
+                "New Lyre Scripts structure"
+            ]
+        },
         "2.1.6": {
             "date": "2026-03-21",
             "changes": [
