@@ -1,0 +1,18 @@
+{
+    "resource_name": "lyre_bridge",
+    "current_version": "1.0.0",
+    "changelog": {
+        "1.0.0": {
+            "date": "2026-05-10",
+            "changes": [
+                "Official open-source bridge release.",
+                "Add startup version check against lyrescripts/versions.",
+                "Expose bridge integrations, shared imports, and automatic SQL migrations for Lyre resources."
+            ]
+        }
+    },
+    "links": {
+        "download": "https://github.com/lyrescripts/lyre_bridge/releases/latest",
+        "support": "https://lyrescripts.com/docs"
+    }
+}
