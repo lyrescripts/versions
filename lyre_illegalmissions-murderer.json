@@ -1,7 +1,15 @@
 {
     "resource_name": "lyre_illegalmissions-murderer",
-    "current_version": "1.0.5",
+    "current_version": "1.1.0",
     "changelog": {
+        "1.1.0": {
+            "date": "2026-05-09",
+            "changes": [
+                "This standalone mission resource has moved to the new lyre_illegalmissions DLC structure.",
+                "Install/update lyre_illegalmissions and lyre_bridge, then enable the matching DLC module from the new release package.",
+                "Do not mix this old standalone folder with the new base + DLC package."
+            ]
+        },
         "1.0.5": {
             "date": "2025-11-21",
             "changes": [

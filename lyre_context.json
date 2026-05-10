@@ -5,7 +5,9 @@
         "1.1.0": {
             "date": "2026-05-09",
             "changes": [
-                "New Lyre Scripts structure"
+                "New Lyre Scripts structure with separated defaults and target bridge resources.",
+                "Install and start lyre_bridge before lyre_context.",
+                "Release package cleaned and simplified; compare your old config with the new config before updating."
             ]
         },
         "1.0.8": {

@@ -5,7 +5,9 @@
         "1.1.0": {
             "date": "2026-05-09",
             "changes": [
-                "New Lyre Scripts structure"
+                "New Lyre Scripts structure: install and start lyre_bridge before this resource.",
+                "Bridge integrations for frameworks, inventories and target systems now live in lyre_bridge.",
+                "Release package cleaned and simplified; compare your old config with the new config before updating."
             ]
         },
         "1.0.3": {
@@ -16,7 +18,7 @@
                 "Fix unsupported translation for JA and ZH-CN languages"
             ]
         },
-        "1.0.2" : {
+        "1.0.2": {
             "date": "2025-11-04",
             "changes": [
                 "Add automatic deletion option"

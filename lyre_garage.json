@@ -5,7 +5,9 @@
         "1.2.0": {
             "date": "2026-05-09",
             "changes": [
-                "New Lyre Scripts structure"
+                "New Lyre Scripts structure: install and start lyre_bridge before this resource.",
+                "Garage SQL schema and framework compatibility are now prepared through lyre_bridge.",
+                "Release package cleaned and simplified; compare your old config with the new config before updating."
             ]
         },
         "1.1.6": {
