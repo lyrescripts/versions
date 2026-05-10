@@ -6,6 +6,7 @@
             "date": "2026-05-09",
             "changes": [
                 "New Lyre Scripts structure: install and start lyre_bridge before this resource.",
+                "lyre_bridge is open source and is not included in Granted Assets ZIPs; download it here: https://github.com/lyrescripts/lyre_bridge",
                 "Inventory usable items and framework compatibility now go through lyre_bridge.",
                 "INVENTORY_ITEMS is no longer shipped as a separate folder; add the documented items to your inventory from the new release package/docs.",
                 "Release package cleaned and simplified; compare your old config with the new config before updating."

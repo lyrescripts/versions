@@ -6,6 +6,7 @@
             "date": "2026-05-09",
             "changes": [
                 "New Lyre Scripts structure: install and start lyre_bridge before this resource.",
+                "lyre_bridge is open source and is not included in Granted Assets ZIPs; download it here: https://github.com/lyrescripts/lyre_bridge",
                 "Illegal Missions now uses a base resource plus DLC mission modules from the new release package.",
                 "Keep the base script and enabled DLC modules updated together; do not mix old standalone mission folders with the new DLC structure.",
                 "Reconfigure from the new config files instead of copying the old config directly."

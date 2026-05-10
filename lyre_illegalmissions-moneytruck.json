@@ -6,6 +6,7 @@
             "date": "2026-05-09",
             "changes": [
                 "This standalone mission resource has moved to the new lyre_illegalmissions DLC structure.",
+                "lyre_bridge is open source and is not included in Granted Assets ZIPs; download it here: https://github.com/lyrescripts/lyre_bridge",
                 "Install/update lyre_illegalmissions and lyre_bridge, then enable the matching DLC module from the new release package.",
                 "Do not mix this old standalone folder with the new base + DLC package."
             ]

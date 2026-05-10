@@ -6,6 +6,7 @@
             "date": "2026-05-09",
             "changes": [
                 "New Lyre Scripts structure with separated defaults and target bridge resources.",
+                "lyre_bridge is open source and is not included in Granted Assets ZIPs; download it here: https://github.com/lyrescripts/lyre_bridge",
                 "Install and start lyre_bridge before lyre_context.",
                 "Release package cleaned and simplified; compare your old config with the new config before updating."
             ]
