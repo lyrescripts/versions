@@ -1,7 +1,13 @@
 {
     "resource_name": "lyre_carwash",
-    "current_version": "2.1.0",
+    "current_version": "2.2.0",
     "changelog": {
+        "2.2.0": {
+            "date": "2026-05-16",
+            "changes": [
+                "Make sure to update lyre_bridge alongside this resource. The previous release was broken."
+            ]
+        },
         "2.1.0": {
             "date": "2026-05-09",
             "changes": [
