@@ -1,7 +1,16 @@
 {
     "resource_name": "lyre_illegalmissions",
-    "current_version": "1.2.0",
+    "current_version": "1.2.1",
     "changelog": {
+        "1.2.1": {
+            "date": "2026-05-17",
+            "changes": [
+                "Fix locale collisions between bundled DLCs that broke moneytruck and gofast missions.",
+                "Restore the cartheft lockpick minigame and unlock the vehicle on success.",
+                "Restore the moneytruck place explosive and grab money minigames.",
+                "Requires lyre_bridge 2.1.1 or newer for the new bridge.skillcheck module."
+            ]
+        },
         "1.2.0": {
             "date": "2026-05-16",
             "changes": [
