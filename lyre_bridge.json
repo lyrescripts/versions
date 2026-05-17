@@ -1,7 +1,14 @@
 {
     "resource_name": "lyre_bridge",
-    "current_version": "2.1.1",
+    "current_version": "2.1.2",
     "changelog": {
+        "2.1.2": {
+            "date": "2026-05-17",
+            "changes": [
+                "getAdminRank now returns a `{ rank = true }` set on every framework (ESX, QBCore, Qbox) so consumers can use `rank[name] == true` uniformly.",
+                "Update lyre_garage alongside this release to restore admin commands on QBCore."
+            ]
+        },
         "2.1.1": {
             "date": "2026-05-17",
             "changes": [
