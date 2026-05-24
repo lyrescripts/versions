@@ -1,7 +1,13 @@
 {
     "resource_name": "lyre_context",
-    "current_version": "1.2.1",
+    "current_version": "1.2.2",
     "changelog": {
+        "1.2.2": {
+            "date": "2026-05-24",
+            "changes": [
+                "Fix staff options not showing up for admins."
+            ]
+        },
         "1.2.1": {
             "date": "2026-05-20",
             "changes": [
