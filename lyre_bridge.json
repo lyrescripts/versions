@@ -1,7 +1,15 @@
 {
     "resource_name": "lyre_bridge",
-    "current_version": "2.1.2",
+    "current_version": "2.2.0",
     "changelog": {
+        "2.2.0": {
+            "date": "2026-05-28",
+            "changes": [
+                "Adds compatibility with the cd_dispatch3d dispatch script.",
+                "Adds compatibility with the tgiann_inventory script.",
+                "Stability fixes on the target system and on third party provider integrations."
+            ]
+        },
         "2.1.2": {
             "date": "2026-05-17",
             "changes": [
