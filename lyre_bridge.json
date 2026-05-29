@@ -1,7 +1,13 @@
 {
     "resource_name": "lyre_bridge",
-    "current_version": "2.2.0",
+    "current_version": "2.2.1",
     "changelog": {
+        "2.2.1": {
+            "date": "2026-05-29",
+            "changes": [
+                "Fixes admin rank detection on Qbox so Lyre admin commands work correctly."
+            ]
+        },
         "2.2.0": {
             "date": "2026-05-28",
             "changes": [
