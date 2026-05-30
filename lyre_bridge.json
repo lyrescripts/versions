@@ -1,7 +1,13 @@
 {
     "resource_name": "lyre_bridge",
-    "current_version": "2.2.1",
+    "current_version": "2.2.2",
     "changelog": {
+        "2.2.2": {
+            "date": "2026-05-30",
+            "changes": [
+                "Improves admin rank detection on Qbox to support more rank names and both ace group conventions."
+            ]
+        },
         "2.2.1": {
             "date": "2026-05-29",
             "changes": [
