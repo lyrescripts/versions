@@ -1,7 +1,13 @@
 {
     "resource_name": "lyre_bridge",
-    "current_version": "2.2.2",
+    "current_version": "2.2.3",
     "changelog": {
+        "2.2.3": {
+            "date": "2026-05-31",
+            "changes": [
+                "Fixes Qbox vehicle keys so granted keys stay with the vehicle instead of being lost on resync."
+            ]
+        },
         "2.2.2": {
             "date": "2026-05-30",
             "changes": [
