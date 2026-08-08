@@ -1,7 +1,14 @@
 {
     "resource_name": "lyre_tennis",
-    "current_version": "1.3.0",
+    "current_version": "1.3.1",
     "changelog": {
+        "1.3.1": {
+            "date": "2026-08-08",
+            "changes": [
+                "!! IMPORTANT !! UPDATE NOW IF YOU ARE RUNNING 1.3.0",
+                "Fixed a script error that broke every match on 1.3.0, right from the first serve."
+            ]
+        },
         "1.3.0": {
             "date": "2026-08-08",
             "changes": [
