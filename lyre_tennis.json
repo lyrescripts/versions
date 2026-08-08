@@ -1,7 +1,17 @@
 {
     "resource_name": "lyre_tennis",
-    "current_version": "1.2.0",
+    "current_version": "1.3.0",
     "changelog": {
+        "1.3.0": {
+            "date": "2026-08-08",
+            "changes": [
+                "The training AI now serves inside the service box instead of faulting on almost every serve.",
+                "Fixed an error that could interrupt joining a court on framework servers.",
+                "Rebuilt the 1v1 and 2v2 join screen, which now shows your rank progression.",
+                "Match scoring, ball sync and court actions are now validated by the server, so modified clients can no longer forge them.",
+                "Config.doubles no longer has rankedEloMode and requireAllReady; every player must now be ready before a match starts."
+            ]
+        },
         "1.2.0": {
             "date": "2026-05-16",
             "changes": [
