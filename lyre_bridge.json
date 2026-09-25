@@ -1,7 +1,14 @@
 {
     "resource_name": "lyre_bridge",
-    "current_version": "2.2.3",
+    "current_version": "2.2.4",
     "changelog": {
+        "2.2.4": {
+            "date": "2026-09-25",
+            "changes": [
+                "Fixes Qbox vehicle keys sometimes not being given on freshly spawned vehicles.",
+                "Fixes vehicle key removal on Qbox and QBCore."
+            ]
+        },
         "2.2.3": {
             "date": "2026-05-31",
             "changes": [
