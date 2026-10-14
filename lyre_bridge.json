@@ -1,7 +1,16 @@
 {
     "resource_name": "lyre_bridge",
-    "current_version": "2.2.5",
+    "current_version": "2.3.0",
     "changelog": {
+        "2.3.0": {
+            "date": "2026-10-14",
+            "changes": [
+                "!! IMPORTANT !! Lyre scripts released on 2026-10-14 need this version, update lyre_bridge before installing them.",
+                "The background blur and the HUD show and hide hooks are now set once in the lyre_bridge config.lua and apply to every Lyre script.",
+                "A blur or HUD setting kept in a script's config.lua still overrides the bridge setting.",
+                "Setting a true or false option to false through a server convar now correctly turns it off."
+            ]
+        },
         "2.2.5": {
             "date": "2026-10-14",
             "changes": [
