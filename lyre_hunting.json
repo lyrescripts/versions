@@ -1,7 +1,17 @@
 {
     "resource_name": "lyre_hunting",
-    "current_version": "1.2.0",
+    "current_version": "1.2.1",
     "changelog": {
+        "1.2.1": {
+            "date": "2026-10-14",
+            "changes": [
+                "!! IMPORTANT !! ox_inventory and qs-inventory users: replace the hunting_bait, hunting_trap, portable_campfire, binoculars, hunting_encyclopedia and cooked meat item definitions with the ones in INVENTORY_ITEMS (on ox_inventory, remove the client export block and add consume = 0), otherwise these items will not work.",
+                "Make sure to update lyre_bridge alongside this resource (2.1.0 or newer is required).",
+                "Fixed hunting animals freezing or standing still for minutes, especially with several players around.",
+                "Shop, payments, missions, tournaments, traps and cooking are now fully validated by the server, and cooked meat can now be eaten.",
+                "Interface, translation and performance improvements."
+            ]
+        },
         "1.2.0": {
             "date": "2026-05-16",
             "changes": [
