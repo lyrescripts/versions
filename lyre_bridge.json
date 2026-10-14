@@ -1,7 +1,17 @@
 {
     "resource_name": "lyre_bridge",
-    "current_version": "2.2.4",
+    "current_version": "2.2.5",
     "changelog": {
+        "2.2.5": {
+            "date": "2026-10-14",
+            "changes": [
+                "Fixes job and gang garages on QBCore and Qbox by providing numeric job grades and gang data.",
+                "Fixes ESX players being treated as members of the ballas gang.",
+                "Fixes QBCore item metadata not being saved (for example jerry can fuel levels) and item counts split across several slots.",
+                "Fixes ox_target interaction zones not being removed correctly.",
+                "QBCore society accounts now require qb-banking."
+            ]
+        },
         "2.2.4": {
             "date": "2026-09-25",
             "changes": [
