@@ -1,7 +1,16 @@
 {
     "resource_name": "lyre_tennis",
-    "current_version": "1.3.1",
+    "current_version": "1.3.2",
     "changelog": {
+        "1.3.2": {
+            "date": "2026-10-14",
+            "changes": [
+                "!! IMPORTANT !! UPDATE lyre_bridge TO 2.3.0 OR NEWER BEFORE INSTALLING THIS VERSION.",
+                "The HUD show and hide hooks and the menu background blur are now set once in the lyre_bridge config.lua for every Lyre script.",
+                "Values you still set in this script's config.lua keep priority, so your current setup keeps working.",
+                "The menu background blur can be turned on or off again (off by default)."
+            ]
+        },
         "1.3.1": {
             "date": "2026-08-08",
             "changes": [
