@@ -1,7 +1,14 @@
 {
     "resource_name": "lyre_garage",
-    "current_version": "1.4.2",
+    "current_version": "1.4.3",
     "changelog": {
+        "1.4.3": {
+            "date": "2026-10-16",
+            "changes": [
+                "Every language is now fully translated, including the job and gang transfer webhooks.",
+                "Fixed the Hebrew park prompts, which did not show the key to press, and other corrupted Hebrew and Swedish texts."
+            ]
+        },
         "1.4.2": {
             "date": "2026-10-16",
             "changes": [
