@@ -1,7 +1,16 @@
 {
     "resource_name": "lyre_bridge",
-    "current_version": "2.3.0",
+    "current_version": "2.4.0",
     "changelog": {
+        "2.4.0": {
+            "date": "2026-10-16",
+            "changes": [
+                "Routine info and debug console logs of Lyre scripts can now be turned on per script with the new debug setting in the lyre_bridge config.lua. They are hidden by default, warnings and errors are always shown.",
+                "You can also turn them on from your server config with set lyre_bridge:debug true for every script, or set lyre_bridge:lyre_hunting:debug true for a single one.",
+                "If you keep your own lyre_bridge config.lua, copy the new debug block from the new file. Without it, routine logs simply stay hidden.",
+                "Global server convars set to false (for example set lyre_bridge:backgroundBlur false) are now applied. They were still ignored in 2.3.0."
+            ]
+        },
         "2.3.0": {
             "date": "2026-10-14",
             "changes": [
