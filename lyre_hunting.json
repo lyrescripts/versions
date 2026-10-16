@@ -1,7 +1,13 @@
 {
     "resource_name": "lyre_hunting",
-    "current_version": "1.3.0",
+    "current_version": "1.3.1",
     "changelog": {
+        "1.3.1": {
+            "date": "2026-10-16",
+            "changes": [
+                "The tournament console command replies are now translated in every language."
+            ]
+        },
         "1.3.0": {
             "date": "2026-10-16",
             "changes": [

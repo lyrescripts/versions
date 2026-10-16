@@ -1,7 +1,13 @@
 {
     "resource_name": "lyre_carwash",
-    "current_version": "2.2.2",
+    "current_version": "2.2.3",
     "changelog": {
+        "2.2.3": {
+            "date": "2026-10-16",
+            "changes": [
+                "Fixed the Finnish station management prompt, which did not show the key to press."
+            ]
+        },
         "2.2.2": {
             "date": "2026-10-16",
             "changes": [

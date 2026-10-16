@@ -1,7 +1,13 @@
 {
     "resource_name": "lyre_context",
-    "current_version": "1.2.3",
+    "current_version": "1.2.4",
     "changelog": {
+        "1.2.4": {
+            "date": "2026-10-16",
+            "changes": [
+                "Every language is now fully translated."
+            ]
+        },
         "1.2.3": {
             "date": "2026-10-16",
             "changes": [
