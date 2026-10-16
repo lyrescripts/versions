@@ -1,7 +1,14 @@
 {
     "resource_name": "lyre_tennis",
-    "current_version": "1.3.2",
+    "current_version": "1.3.3",
     "changelog": {
+        "1.3.3": {
+            "date": "2026-10-16",
+            "changes": [
+                "Routine tennis console messages no longer clutter your server console, warnings and errors are still always shown.",
+                "Update lyre_bridge to 2.4.0 or newer so routine console logs are hidden by default and can be turned on per script in the lyre_bridge config.lua."
+            ]
+        },
         "1.3.2": {
             "date": "2026-10-14",
             "changes": [

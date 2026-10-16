@@ -1,7 +1,15 @@
 {
     "resource_name": "lyre_context",
-    "current_version": "1.2.2",
+    "current_version": "1.2.3",
     "changelog": {
+        "1.2.3": {
+            "date": "2026-10-16",
+            "changes": [
+                "The ox_target, qtarget and qb-target compatibility layers no longer print a console line every time another resource stops.",
+                "Routine console messages stay quiet unless you turn on debug, warnings and errors (for example unsupported target features) are always shown.",
+                "Update lyre_bridge to 2.4.0 or newer so routine console logs are hidden by default and can be turned on per script in the lyre_bridge config.lua."
+            ]
+        },
         "1.2.2": {
             "date": "2026-05-24",
             "changes": [

@@ -1,7 +1,15 @@
 {
     "resource_name": "lyre_fuel",
-    "current_version": "2.4.2",
+    "current_version": "2.4.3",
     "changelog": {
+        "2.4.3": {
+            "date": "2026-10-16",
+            "changes": [
+                "Routine fuel console messages no longer clutter your server console, warnings and errors are still always shown.",
+                "Update lyre_bridge to 2.4.0 or newer so routine console logs are hidden by default and can be turned on per script in the lyre_bridge config.lua.",
+                "Running the setfuel or station management command from the server console now shows a clear warning that it can only be used in-game."
+            ]
+        },
         "2.4.2": {
             "date": "2026-10-14",
             "changes": [

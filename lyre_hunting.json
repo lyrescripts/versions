@@ -1,7 +1,15 @@
 {
     "resource_name": "lyre_hunting",
-    "current_version": "1.2.2",
+    "current_version": "1.3.0",
     "changelog": {
+        "1.3.0": {
+            "date": "2026-10-16",
+            "changes": [
+                "You can now choose how much damage each animal deals to players with the new optional playerDamageMultiplier setting in the animals section of config.lua, and existing configs keep working without changes.",
+                "Update lyre_bridge to 2.4.0 or newer so routine console logs are hidden by default and can be turned on per script in the lyre_bridge config.lua.",
+                "All languages are now fully translated, with corrected Finnish, Turkish and French texts."
+            ]
+        },
         "1.2.2": {
             "date": "2026-10-14",
             "changes": [
