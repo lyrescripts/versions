@@ -1,7 +1,14 @@
 {
     "resource_name": "lyre_carwash",
-    "current_version": "2.2.1",
+    "current_version": "2.2.2",
     "changelog": {
+        "2.2.2": {
+            "date": "2026-10-16",
+            "changes": [
+                "Routine car wash console messages no longer clutter your server console, warnings and errors are still always shown.",
+                "Update lyre_bridge to 2.4.0 or newer so routine console logs are hidden by default and can be turned on per script in the lyre_bridge config.lua."
+            ]
+        },
         "2.2.1": {
             "date": "2026-10-14",
             "changes": [
