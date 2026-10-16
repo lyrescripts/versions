@@ -1,7 +1,14 @@
 {
     "resource_name": "lyre_illegalmissions",
-    "current_version": "2.0.1",
+    "current_version": "2.0.2",
     "changelog": {
+        "2.0.2": {
+            "date": "2026-10-16",
+            "changes": [
+                "The V2 interface, notifications and console messages are now translated in every language.",
+                "Fixed a corrupted Hebrew mission title."
+            ]
+        },
         "2.0.1": {
             "date": "2026-10-16",
             "changes": [
