@@ -1,7 +1,15 @@
 {
     "resource_name": "lyre_tennis",
-    "current_version": "1.3.3",
+    "current_version": "1.3.4",
     "changelog": {
+        "1.3.4": {
+            "date": "2026-10-16",
+            "changes": [
+                "The referee announcements now show the player's name in every language.",
+                "The 1v1 and 2v2 join screen and its notifications are now translated in every language.",
+                "Fixed corrupted Hebrew and Swedish texts."
+            ]
+        },
         "1.3.3": {
             "date": "2026-10-16",
             "changes": [
